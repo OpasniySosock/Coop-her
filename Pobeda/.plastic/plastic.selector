@@ -1,0 +1,4 @@
+repository "Pobeda@Opasniy_Sosock@cloud"
+  path "/"
+    br "/main"
+    co "/main"
